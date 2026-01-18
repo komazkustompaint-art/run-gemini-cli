@@ -68,3 +68,7 @@ gha-creds-*.json
 
 # Ignore local secrets file for act
 .secrets
+
+.extension/
+
+.early.coverage
